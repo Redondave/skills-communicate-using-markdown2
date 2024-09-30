@@ -11,3 +11,6 @@ Using \# characters :)
 ``` javascript
 let note = "This is a piece of JS code using markdown";
 ``` 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
