@@ -7,3 +7,7 @@
 Using \# characters :)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+let note = "This is a piece of JS code using markdown";
+``` 
