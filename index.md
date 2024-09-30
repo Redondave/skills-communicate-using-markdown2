@@ -5,3 +5,5 @@
 ###### H6 header
 
 Using \# characters :)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
